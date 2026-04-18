@@ -1,1 +1,1 @@
-DiscountInput
+BasicCalculator
