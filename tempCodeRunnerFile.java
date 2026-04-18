@@ -1,1 +1,1 @@
-KmToMilesInput
+DiscountInput
